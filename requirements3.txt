@@ -26,7 +26,7 @@ numpy==1.15.4
 opencv-python==3.4.3.18
 paramiko==2.4.2
 peewee==3.6.4
-Pillow==5.2.0
+Pillow==6.2.0
 pocketsphinx==0.1.15
 psutil==5.4.6
 pyasn1==0.4.4
