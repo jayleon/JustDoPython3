@@ -28,7 +28,7 @@ paramiko==2.4.2
 peewee==3.6.4
 Pillow==5.2.0
 pocketsphinx==0.1.15
-psutil==5.4.6
+psutil==5.6.6
 pyasn1==0.4.4
 pycodestyle==2.3.1
 pycparser==2.19
