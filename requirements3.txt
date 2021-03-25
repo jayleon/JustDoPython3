@@ -42,7 +42,7 @@ pyppeteer==0.0.24
 pyqueue==2.0.0
 pytesseract==0.2.5
 python-dateutil==2.7.5
-PyYAML==3.13
+PyYAML==5.4
 requests==2.19.1
 six==1.11.0
 tqdm==4.28.1
